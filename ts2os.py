@@ -1,6 +1,6 @@
-# Name: ts2OS.py
+# Name: ts2os.py
 # Version: 1.0 - 2024/08/05
-# Description: Run with python ./buildOS.py, when the prompt comes up, copy and paste the lines from the trade steward bot log for the fill.
+# Description: Run with python ./ts2os.py, when the prompt comes up, copy and paste the lines from the trade steward bot log for the fill.
 # E.g. Leg 1: Sell To Open SPXW 07/18/24 5650P @ $21.13 (21.20/21.50); 49.4 Delta
 #      Leg 2: Buy To Open SPXW 07/18/24 5620P @ $10.35 (10.40/10.70); 29.3 Delta
 #      Leg 3: Buy To Open SPXW 07/16/24 5620P @ $2.67 (2.70/2.80); 16.9 Delta
