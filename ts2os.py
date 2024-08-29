@@ -1,5 +1,5 @@
 # Name: ts2os.py
-# Version: 1.1 - 2024/08/29
+# Version: 1.2 - 2024/08/29
 # Description: Run with python ./ts2os.py, when the prompt comes up, copy and paste the lines from the trade steward bot log for the fill.
 # E.g. 	Leg 1: Sell to Open -1x SPXW 08/29/24 5545P @ $4.25 (4.20/4.30); 12.8 Delta
 #       Leg 2: Buy to Open 1x SPXW 08/30/24 5545P @ $7.12 (7.00/7.10); 16.7 Delta
@@ -9,8 +9,11 @@
 # Once input is done, press enter on an empty line. There's no error checking. Quick and dirty...
 # 
 # Changelog:
-# V 1.1 - 2024/08/29
+# V 1.2 - 2024/08/29
 #   - Added number of legs per option
+#
+# V 1.1 - 2024/08/07
+#   - Renamed to ts2os from ts2OS
 #
 # V 1.0 - 2024/08/05
 #   - Initial release
